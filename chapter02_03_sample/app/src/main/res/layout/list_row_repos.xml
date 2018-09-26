@@ -6,7 +6,7 @@
                 android:padding="8dp">
 
     <TextView
-        android:id="@+id/repo_name"
+        android:id="@+id/repoName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         tools:text="repository name here"/>
