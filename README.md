@@ -1,1 +1,2 @@
-# android_testing_samplecode
+# 「Androidテスト全書」サンプルコード
+（5, 6章のサンプルコードは準備中です）
